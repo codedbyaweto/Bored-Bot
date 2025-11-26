@@ -1,4 +1,4 @@
-# BoredBot
+# BoredBot(borredbot.netlify.app)
 
 BoredBot is a fun and interactive mini web app that helps you find random activities whenever you're bored. It uses the Bored API to fetch activity ideas and updates the page with animations, gradients, and a playful bouncing effect.
 
